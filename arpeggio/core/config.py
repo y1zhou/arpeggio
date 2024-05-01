@@ -290,7 +290,7 @@ PROT_ATOM_TYPES = {
         "ASNND2",  # for the ambiguity of the position of the N and O
         "ASPOD1",
         "ASPOD2",
-        "GLNOE1"
+        "GLNOE1",
         "GLNNE2",  # for the ambiguity of the position of the N and O
         "GLUOE1",
         "GLUOE2",
@@ -349,7 +349,7 @@ PROT_ATOM_TYPES = {
         "ASNND2",  # for the ambiguity of the position of the N and O
         "ASPOD1",
         "ASPOD2",
-        "GLNOE1"
+        "GLNOE1",
         "GLNNE2",  # for the ambiguity of the position of the N and O
         "GLUOE1",
         "GLUOE2",
