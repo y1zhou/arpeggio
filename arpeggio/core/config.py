@@ -436,7 +436,7 @@ PROT_ATOM_TYPES = {
         "TYRCD2",
         "TYRCE1",
         "TYRCE2",
-        "TRYCB",
+        "TYRCB",
         "VALCB",
         "VALCG1",
         "VALCG2"
@@ -504,7 +504,7 @@ PROT_ATOM_TYPES = {
         "TRPCZ3",
         "TRPCH2",
         "TRPCZ2",
-        "TRYCB",
+        "TYRCB",
         "TYRCG",
         "TYRCD1",
         "TYRCD2",
